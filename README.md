@@ -581,3 +581,4 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+- **[awesome-agentic-patterns](https://github.com/DYNOSuprovo/awesome-agentic-patterns)** - Production playbook and automated CLI wizard that inspects projects and generates tailored MCP configurations and multi-agent rules.
